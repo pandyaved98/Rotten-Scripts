@@ -26,7 +26,7 @@ keyboard==0.13.5
 kiwisolver @ file:///C:/ci/kiwisolver_1604014703538/work
 MarkupSafe==1.1.1
 matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
-mistune==0.8.4
+mistune==2.0.3
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
